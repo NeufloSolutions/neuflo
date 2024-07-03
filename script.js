@@ -937,23 +937,23 @@
                     H = "__p+='";
                 _.replace(P, function(ge, j, Ce, ir, kr) {
                     return H += _.slice(W, kr).replace(U, k), W = kr + ge.length, j ? H += `'+
-((__t=(` + j + `))==null?'':_.escape(__t))+
-'` : Ce ? H += `'+
-((__t=(` + Ce + `))==null?'':__t)+
-'` : ir && (H += `';
-` + ir + `
-__p+='`), ge
+    ((__t=(` + j + `))==null?'':_.escape(__t))+
+    '` : Ce ? H += `'+
+    ((__t=(` + Ce + `))==null?'':__t)+
+    '` : ir && (H += `';
+    ` + ir + `
+    __p+='`), ge
                 }), H += `';
-`;
+    `;
                 var J = N.variable;
                 if (J) {
                     if (!L.test(J)) throw new Error("variable is not a bare identifier: " + J)
                 } else H = `with(obj||{}){
-` + H + `}
-`, J = "obj";
+    ` + H + `}
+    `, J = "obj";
                 H = `var __t,__p='',__j=Array.prototype.join,print=function(){__p+=__j.call(arguments,'');};
-` + H + `return __p;
-`;
+    ` + H + `return __p;
+    `;
                 var xe;
                 try {
                     xe = new Function(N.variable || "obj", "_", H)
@@ -964,7 +964,7 @@ __p+='`), ge
                     return xe.call(this, ge, e)
                 };
                 return it.source = "function(" + J + `){
-` + H + "}", it
+    ` + H + "}", it
             }, e
         }()
     });
@@ -1125,8 +1125,7 @@ __p+='`), ge
                 e(f).attr("style", m ? "display: none !important;" : "")
             }
 
-            
-
+          
 
             function d() {
                 var m = i.children(o),
@@ -1180,6 +1179,7 @@ __p+='`), ge
                     })
                 })
             }
+
             function m(w) {
                 return function(R) {
                     if (!R) {
