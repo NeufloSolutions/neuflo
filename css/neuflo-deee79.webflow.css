@@ -1,0 +1,4079 @@
+:root {
+  --white: white;
+  --black: black;
+}
+
+.w-layout-grid {
+  grid-row-gap: 16px;
+  grid-column-gap: 16px;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  display: grid;
+}
+
+.frame-20 {
+  grid-row-gap: 30px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 400px;
+  text-decoration: none;
+  display: flex;
+}
+
+.text-5 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 28px;
+  font-weight: 200;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.text-13 {
+  color: #585858;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: 200;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.output-slider_slide-img {
+  width: 302px;
+}
+
+.don-t-settle-for-basic-your-brand-deserves-more-2 {
+  color: #000;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 56px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.text-3 {
+  color: #fff0;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.team {
+  grid-row-gap: 90px;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  padding: 100px 20px;
+  text-decoration: none;
+  display: flex;
+}
+
+.book {
+  grid-row-gap: 50px;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 100px 150px;
+  text-decoration: none;
+  display: flex;
+  box-shadow: 0 -44px 96px #0000000a, 0 -175px 175px #00000008, 0 -394px 236px #00000005, 0 -700px 280px #00000003, 0 -1093px 306px #0000;
+}
+
+.where-are-we-now-2 {
+  grid-row-gap: 64px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 12px 20px;
+  text-decoration: none;
+  display: flex;
+}
+
+.nav-list-copy {
+  grid-column-gap: 20px;
+  flex: 0 auto;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-decoration: none;
+  display: flex;
+}
+
+.error-69b80e48-a8fc-fb99-8436-122c8be83eab {
+  color: #000;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Playfair Display, sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.how-it-works-0 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.parent-block {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.how-it-works-7 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.hero-2 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-decoration: none;
+  display: flex;
+}
+
+.now {
+  grid-column-gap: 10px;
+  flex: 0 auto;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-decoration: none;
+  display: flex;
+}
+
+.frame-7 {
+  grid-row-gap: 16px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  display: flex;
+}
+
+.what-is-design {
+  grid-column-gap: 4rem;
+  grid-row-gap: 4rem;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  align-items: center;
+  padding-left: 2.5rem;
+  display: grid;
+}
+
+.error-69b80e48-a8fc-fb99-8436-122c8be83ea2 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 36px;
+  font-weight: 300;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.text-10 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.text-4-copy {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 42px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.text-copy33 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.our-team-1 {
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.footer {
+  background-color: #000;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  text-decoration: none;
+  display: flex;
+}
+
+.tom-soney-design-strategist {
+  grid-column-gap: 12px;
+  grid-row-gap: 12px;
+  color: #000;
+  text-align: center;
+  flex-flow: column;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+  display: flex;
+}
+
+.rectangle-1 {
+  object-fit: cover;
+  width: 15vh;
+  max-width: none;
+  height: 15vh;
+}
+
+.section-services-1 {
+  position: static;
+  overflow: hidden;
+}
+
+.quick-view {
+  grid-row-gap: 200px;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 200px 130px;
+  text-decoration: none;
+  display: flex;
+}
+
+.hero-section {
+  grid-row-gap: 16px;
+  background-color: #000;
+  background-image: url('../images/magicpattern-grid-pattern-1719193817187.png');
+  background-position: 50%;
+  background-size: cover;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 90vh;
+  padding: 230px 130px;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.text-6 {
+  color: #fff;
+  letter-spacing: .02em;
+  width: auto;
+  height: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-right: 0;
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 180%;
+  text-decoration: none;
+}
+
+.output_content-wrapper {
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  max-width: 30rem;
+  display: flex;
+  position: sticky;
+}
+
+.content-sticky {
+  position: static;
+  top: 0%;
+}
+
+.frame-17 {
+  grid-row-gap: 40px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  text-decoration: none;
+  display: flex;
+}
+
+.hero-line-2 {
+  grid-column-gap: 12px;
+  flex: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  display: flex;
+}
+
+.text-4 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 40px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.transforming-your {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Playfair Display, sans-serif;
+  font-size: 80px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.list-tree-item {
+  grid-row-gap: 64px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-bottom: 15px;
+  padding: 10px;
+  text-decoration: none;
+  display: flex;
+}
+
+.navbar-link-1 {
+  grid-column-gap: 10px;
+  flex: 0 auto;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  text-decoration: none;
+  display: flex;
+}
+
+.overall-block {
+  width: 100%;
+  max-width: 80rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.quote {
+  grid-row-gap: 64px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 70em;
+  max-width: 1180px;
+  text-decoration: none;
+  display: flex;
+}
+
+.list-tier {
+  grid-column-gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 50%;
+  text-decoration: none;
+  display: flex;
+}
+
+.what-is-design-strategy-3 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.pills {
+  grid-row-gap: 15px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-decoration: none;
+  display: flex;
+}
+
+.output-slider_slide-2 {
+  opacity: 1;
+  width: 100%;
+  padding: 0;
+  transition: transform .4s;
+  position: relative;
+  overflow: hidden;
+  transform: scale(.9);
+}
+
+.our-team-2 {
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.don-t-settle-for-basic-your-brand-deserves-more-3 {
+  color: #000;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.frame-22 {
+  grid-row-gap: 40px;
+  border: 1px solid #a2a2a2;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+  padding: 75px 0;
+  text-decoration: none;
+  display: flex;
+}
+
+.nav-bar {
+  background-color: #000;
+  border-radius: 8px;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+  height: 8vh;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  display: flex;
+}
+
+.what-is-design-strategy-2 {
+  color: #fff;
+  width: 500px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.how-it-works {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.road-map-copy {
+  grid-row-gap: 50px;
+  background-color: #000;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  padding: 150px 75px;
+  text-decoration: none;
+  display: flex;
+}
+
+.home_cta_image-wrapper {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.how-it-works-2 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.fade-in-on-scroll {
+  margin-bottom: 10px;
+}
+
+.fade-in-on-scroll.subheading {
+  display: block;
+}
+
+.text-9 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 30px;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 100%;
+  text-decoration: none;
+  overflow: clip;
+}
+
+.how-it-works-1 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.text-12 {
+  color: #000;
+  letter-spacing: .02em;
+  width: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.what-is-design-strategy-1 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.what-is-design-section {
+  background-color: #000;
+}
+
+.where-are-we-now {
+  grid-row-gap: 64px;
+  background-color: #1332d2;
+  border-radius: 5px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 13px 20px;
+  text-decoration: none;
+  display: flex;
+}
+
+.hero {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  text-decoration: none;
+  display: flex;
+}
+
+.frame-9 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  display: flex;
+}
+
+.how-it-works-6 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.output_component {
+  grid-column-gap: 1rem;
+  grid-row-gap: 1rem;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr .75fr;
+  grid-auto-columns: 1fr;
+  align-items: center;
+  width: 100%;
+  padding: 0 100px;
+  display: grid;
+}
+
+.how-it-works-3 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.frame-10-copy {
+  grid-row-gap: 64px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  min-width: 700px;
+  text-decoration: none;
+  display: flex;
+}
+
+.our-team {
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding-left: 130px;
+  padding-right: 130px;
+  text-decoration: none;
+  display: flex;
+}
+
+.our-team-0 {
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 36px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.how-it-works-5 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.hero-headers {
+  grid-column-gap: 10px;
+  flex: 0 auto;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  text-decoration: none;
+  display: flex;
+}
+
+.output-slider {
+  width: 100%;
+  height: 43.75rem;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.tom-soney-design-strategist-1 {
+  color: #000;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+  display: flex;
+}
+
+.frame-19 {
+  grid-column-gap: 100px;
+  flex: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  display: flex;
+}
+
+.output-slider_track {
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 0;
+  display: flex;
+  overflow: visible;
+}
+
+.div-block-2 {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.div-block-2._1 {
+  border-top: 1px solid #00000059;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.about-section-1 {
+  background-color: #000;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-decoration: none;
+  display: block;
+  position: static;
+  overflow: hidden;
+}
+
+.don-t-settle-for-basic-your-brand-deserves-more-0 {
+  color: #000;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Playfair Display, sans-serif;
+  font-size: 45px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.text-8 {
+  color: #fff;
+  flex: 0 auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.nav-item {
+  grid-column-gap: 10px;
+  background-color: #1332d2;
+  border: 0 solid #1332d2;
+  border-bottom-width: 2px;
+  border-radius: 4px;
+  flex: 0 auto;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 15px;
+  text-decoration: none;
+  display: flex;
+}
+
+._12-team-members {
+  grid-column-gap: 12px;
+  grid-row-gap: 12px;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.padding-global-2 {
+  border-bottom: 1px solid #ffffff5e;
+  padding: 80px 2.5rem;
+}
+
+.link-2 {
+  color: #00000080;
+  text-decoration: none;
+}
+
+.nav-bar-2 {
+  background-color: #000;
+  border-radius: 8px;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 50px 130px;
+  text-decoration: none;
+  display: flex;
+}
+
+.post-summary {
+  font-size: 22px;
+  line-height: 27px;
+}
+
+.output_image-wrapper {
+  height: 43.75rem;
+}
+
+.text-11 {
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.frame-21 {
+  grid-row-gap: 64px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 400px;
+  text-decoration: none;
+  display: flex;
+}
+
+.text-2 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 85px;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.tom-soney-design-strategist-0 {
+  color: #000;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.logo-36 {
+  grid-column-gap: 10px;
+  flex: 0 auto;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  text-decoration: none;
+  display: flex;
+}
+
+.text {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.how-it-works-4 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.button {
+  grid-column-gap: 10px;
+  background-color: #1332d2;
+  border: 0 solid #1332d2;
+  border-bottom-width: 2px;
+  border-radius: 4px;
+  flex: 0 auto;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: flex;
+}
+
+.logo-36-copy {
+  grid-column-gap: 10px;
+  flex: 0 auto;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  text-decoration: none;
+  display: flex;
+}
+
+.frame-8 {
+  z-index: 1;
+  grid-row-gap: 64px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  display: flex;
+  position: relative;
+}
+
+.nav-list {
+  grid-column-gap: 20px;
+  flex: 0 auto;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-decoration: none;
+  display: flex;
+}
+
+.home-page {
+  background-color: #000;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-decoration: none;
+  display: flex;
+}
+
+._12-team-members-0 {
+  color: #000;
+  text-align: center;
+  letter-spacing: .02em;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 96px;
+  font-weight: 700;
+  line-height: 180%;
+  text-decoration: none;
+}
+
+.design-section {
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.text-7 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+._12-team-members-1 {
+  color: #000;
+  text-align: center;
+  letter-spacing: .02em;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 180%;
+  text-decoration: none;
+}
+
+.body {
+  font-family: Poppins, sans-serif;
+}
+
+.frame-23 {
+  grid-row-gap: 30px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 400px;
+  text-decoration: none;
+  display: flex;
+}
+
+.text-14 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 28px;
+  font-weight: 200;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.text-15 {
+  color: #585858;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.don-t-settle-for-basic-your-brand-deserves-more-4 {
+  color: #000;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 56px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.text-16 {
+  color: #fff0;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.where-are-we-now-3 {
+  grid-row-gap: 64px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 12px 20px;
+  text-decoration: none;
+  display: flex;
+}
+
+.how-it-works-8 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.how-it-works-9 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.hero-3 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-decoration: none;
+  display: flex;
+}
+
+.frame-24 {
+  grid-row-gap: 16px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  display: flex;
+}
+
+.error-69b80e48-a8fc-fb99-8436-122c8be83ea2-2 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.text-17 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.text-4-copy-2 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.text-copy33-2 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.our-team-3 {
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.text-18 {
+  color: #fff;
+  letter-spacing: .02em;
+  width: auto;
+  height: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-right: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 180%;
+  text-decoration: none;
+}
+
+.frame-25 {
+  grid-row-gap: 40px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  text-decoration: none;
+  display: flex;
+}
+
+.text-19 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.what-is-design-strategy-4 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.pills-2 {
+  grid-row-gap: 15px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-family: Poppins, sans-serif;
+  text-decoration: none;
+  display: flex;
+}
+
+.our-team-4 {
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.don-t-settle-for-basic-your-brand-deserves-more-5 {
+  color: #000;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.frame-26 {
+  grid-row-gap: 40px;
+  border: 1px solid #a2a2a2;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+  padding: 75px 0;
+  text-decoration: none;
+  display: flex;
+}
+
+.what-is-design-strategy-5 {
+  color: #fff;
+  width: 500px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.how-it-works-10 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.how-it-works-11 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.text-20 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 30px;
+  font-family: Poppins, sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 100%;
+  text-decoration: none;
+  overflow: clip;
+}
+
+.how-it-works-12 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.text-21 {
+  color: #000;
+  letter-spacing: .02em;
+  width: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.what-is-design-strategy-6 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.frame-27 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  display: flex;
+}
+
+.how-it-works-13 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.how-it-works-14 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.our-team-5 {
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding-left: 130px;
+  padding-right: 130px;
+  text-decoration: none;
+  display: flex;
+}
+
+.our-team-6 {
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.how-it-works-15 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.tom-soney-design-strategist-2 {
+  color: #000;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+  display: flex;
+}
+
+.frame-28 {
+  grid-column-gap: 100px;
+  flex: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  display: flex;
+}
+
+.text-22 {
+  color: #fff;
+  flex: 0 auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.nav-bar-3 {
+  background-color: #000;
+  border-radius: 8px;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 50px 130px;
+  text-decoration: none;
+  display: flex;
+}
+
+.text-23 {
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.frame-29 {
+  grid-row-gap: 64px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 400px;
+  text-decoration: none;
+  display: flex;
+}
+
+.text-24 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 85px;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.tom-soney-design-strategist-3 {
+  color: #000;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.text-25 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.how-it-works-16 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.frame-30 {
+  z-index: 1;
+  grid-row-gap: 64px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  display: flex;
+  position: relative;
+}
+
+._12-team-members-2 {
+  color: #000;
+  text-align: center;
+  letter-spacing: .02em;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 96px;
+  font-weight: 700;
+  line-height: 180%;
+  text-decoration: none;
+}
+
+.text-26 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+._12-team-members-3 {
+  color: #000;
+  text-align: center;
+  letter-spacing: .02em;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 180%;
+  text-decoration: none;
+}
+
+.frame-31 {
+  grid-row-gap: 30px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 400px;
+  text-decoration: none;
+  display: flex;
+}
+
+.text-27 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 28px;
+  font-weight: 200;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.text-28 {
+  color: #585858;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.don-t-settle-for-basic-your-brand-deserves-more-6 {
+  color: #000;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 56px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.text-29 {
+  color: #fff0;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.where-are-we-now-4 {
+  grid-row-gap: 64px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 12px 20px;
+  text-decoration: none;
+  display: flex;
+}
+
+.how-it-works-17 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.how-it-works-18 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.hero-4 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-decoration: none;
+  display: flex;
+}
+
+.frame-32 {
+  grid-row-gap: 16px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  display: flex;
+}
+
+.error-69b80e48-a8fc-fb99-8436-122c8be83ea2-3 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.text-30 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.text-4-copy-3 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.text-copy33-3 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.text-31 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.what-is-design-strategy-7 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.pills-3 {
+  grid-row-gap: 15px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-family: Poppins, sans-serif;
+  text-decoration: none;
+  display: flex;
+}
+
+.our-team-7 {
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.don-t-settle-for-basic-your-brand-deserves-more-7 {
+  color: #000;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.frame-33 {
+  grid-row-gap: 40px;
+  border: 1px solid #a2a2a2;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+  padding: 75px 0;
+  text-decoration: none;
+  display: flex;
+}
+
+.what-is-design-strategy-8 {
+  color: #fff;
+  width: 500px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.how-it-works-19 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.how-it-works-20 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.text-32 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 30px;
+  font-family: Poppins, sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 100%;
+  text-decoration: none;
+  overflow: clip;
+}
+
+.how-it-works-21 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.text-33 {
+  color: #000;
+  letter-spacing: .02em;
+  width: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.what-is-design-strategy-9 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.frame-34 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  display: flex;
+}
+
+.how-it-works-22 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.our-team-8 {
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding-left: 130px;
+  padding-right: 130px;
+  text-decoration: none;
+  display: flex;
+}
+
+.our-team-9 {
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.how-it-works-23 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.tom-soney-design-strategist-4 {
+  color: #000;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+  display: flex;
+}
+
+.frame-35 {
+  grid-column-gap: 100px;
+  flex: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  display: flex;
+}
+
+.text-34 {
+  color: #fff;
+  flex: 0 auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+._12-team-members-4 {
+  grid-column-gap: 12px;
+  grid-row-gap: 12px;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.nav-bar-4 {
+  background-color: #000;
+  border-radius: 8px;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 50px 130px;
+  text-decoration: none;
+  display: flex;
+}
+
+.text-35 {
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.frame-36 {
+  grid-row-gap: 64px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 400px;
+  text-decoration: none;
+  display: flex;
+}
+
+.text-36 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 85px;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.tom-soney-design-strategist-5 {
+  color: #000;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+.text-37 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.how-it-works-24 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
+.frame-37 {
+  z-index: 1;
+  grid-row-gap: 64px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  display: flex;
+  position: relative;
+}
+
+._12-team-members-5 {
+  color: #000;
+  text-align: center;
+  letter-spacing: .02em;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 96px;
+  font-weight: 700;
+  line-height: 180%;
+  text-decoration: none;
+}
+
+.text-38 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Poppins, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 100%;
+  text-decoration: none;
+}
+
+@media screen and (min-width: 1280px) {
+  .output-slider_slide-2 {
+    padding-left: 0;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .text-5 {
+    font-size: 36px;
+  }
+
+  .team {
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  .book {
+    padding-left: 140px;
+    padding-right: 140px;
+  }
+
+  .where-are-we-now-2 {
+    padding: 20px 40px;
+  }
+
+  .nav-list-copy {
+    grid-column-gap: 40px;
+  }
+
+  .error-69b80e48-a8fc-fb99-8436-122c8be83eab {
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 150%;
+  }
+
+  .how-it-works-0 {
+    font-size: 24px;
+  }
+
+  .parent-block {
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: block;
+  }
+
+  .now {
+    grid-column-gap: 20px;
+  }
+
+  .what-is-design {
+    padding-left: 0;
+  }
+
+  .error-69b80e48-a8fc-fb99-8436-122c8be83ea2 {
+    font-size: 40px;
+  }
+
+  .text-10 {
+    font-size: 20px;
+  }
+
+  .text-4-copy {
+    font-size: 60px;
+  }
+
+  .text-copy33 {
+    font-size: 40px;
+  }
+
+  .tom-soney-design-strategist {
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    flex-flow: column;
+    display: flex;
+  }
+
+  .quick-view {
+    padding-top: 300px;
+    padding-bottom: 300px;
+  }
+
+  .text-6 {
+    font-size: 25px;
+  }
+
+  .text-4 {
+    font-size: 70px;
+  }
+
+  .transforming-your {
+    font-size: 100px;
+  }
+
+  .list-tree-item {
+    padding: 10px 20px;
+  }
+
+  .overall-block {
+    max-width: none;
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+
+  .quote {
+    width: auto;
+  }
+
+  .what-is-design-strategy-3, .don-t-settle-for-basic-your-brand-deserves-more-3 {
+    font-size: 60px;
+  }
+
+  .nav-bar {
+    max-width: none;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  .what-is-design-strategy-2 {
+    width: auto;
+    line-height: 150%;
+  }
+
+  .how-it-works {
+    font-size: 20px;
+  }
+
+  .road-map-copy {
+    justify-content: center;
+    align-items: flex-start;
+  }
+
+  .text-9 {
+    font-size: 40px;
+  }
+
+  .how-it-works-1 {
+    font-size: 20px;
+  }
+
+  .where-are-we-now {
+    padding: 20px 40px;
+  }
+
+  .how-it-works-5 {
+    font-size: 24px;
+  }
+
+  .div-block-2._1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .about-section-1 {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  .don-t-settle-for-basic-your-brand-deserves-more-0 {
+    font-size: 60px;
+  }
+
+  .text-8 {
+    font-size: 24px;
+  }
+
+  .text-2 {
+    font-size: 100px;
+  }
+
+  .design-section {
+    padding-bottom: 40px;
+  }
+
+  .text-7 {
+    font-size: 24px;
+  }
+
+  .text-14 {
+    font-size: 36px;
+  }
+
+  .where-are-we-now-3 {
+    padding: 20px 40px;
+  }
+
+  .how-it-works-8 {
+    font-size: 24px;
+  }
+
+  .error-69b80e48-a8fc-fb99-8436-122c8be83ea2-2 {
+    font-size: 40px;
+  }
+
+  .text-17 {
+    font-size: 20px;
+  }
+
+  .text-4-copy-2 {
+    font-size: 60px;
+  }
+
+  .text-copy33-2 {
+    font-size: 40px;
+  }
+
+  .text-18 {
+    font-size: 25px;
+  }
+
+  .text-19 {
+    font-size: 70px;
+  }
+
+  .what-is-design-strategy-4, .don-t-settle-for-basic-your-brand-deserves-more-5 {
+    font-size: 60px;
+  }
+
+  .what-is-design-strategy-5 {
+    width: auto;
+    line-height: 150%;
+  }
+
+  .how-it-works-10 {
+    font-size: 20px;
+  }
+
+  .text-20 {
+    font-size: 40px;
+  }
+
+  .how-it-works-12 {
+    font-size: 20px;
+  }
+
+  .how-it-works-15, .text-22 {
+    font-size: 24px;
+  }
+
+  .text-24 {
+    font-size: 100px;
+  }
+
+  .text-26 {
+    font-size: 24px;
+  }
+
+  .text-27 {
+    font-size: 36px;
+  }
+
+  .where-are-we-now-4 {
+    padding: 20px 40px;
+  }
+
+  .how-it-works-17 {
+    font-size: 24px;
+  }
+
+  .error-69b80e48-a8fc-fb99-8436-122c8be83ea2-3 {
+    font-size: 40px;
+  }
+
+  .text-30 {
+    font-size: 20px;
+  }
+
+  .text-4-copy-3 {
+    font-size: 60px;
+  }
+
+  .text-copy33-3 {
+    font-size: 40px;
+  }
+
+  .text-31 {
+    font-size: 70px;
+  }
+
+  .what-is-design-strategy-7, .don-t-settle-for-basic-your-brand-deserves-more-7 {
+    font-size: 60px;
+  }
+
+  .what-is-design-strategy-8 {
+    width: auto;
+    line-height: 150%;
+  }
+
+  .how-it-works-19 {
+    font-size: 20px;
+  }
+
+  .text-32 {
+    font-size: 40px;
+  }
+
+  .how-it-works-21 {
+    font-size: 20px;
+  }
+
+  .how-it-works-23, .text-34 {
+    font-size: 24px;
+  }
+
+  .text-36 {
+    font-size: 100px;
+  }
+
+  .text-38 {
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .frame-20 {
+    grid-row-gap: 15px;
+  }
+
+  .text-5 {
+    font-size: 16px;
+  }
+
+  .text-13 {
+    font-size: 8px;
+  }
+
+  .text-3 {
+    font-size: 10px;
+  }
+
+  .team {
+    grid-row-gap: 50px;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 60px 50px;
+  }
+
+  .book {
+    padding: 60px;
+  }
+
+  .where-are-we-now-2 {
+    padding: 10px;
+  }
+
+  .nav-list-copy {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .error-69b80e48-a8fc-fb99-8436-122c8be83eab {
+    font-size: 32px;
+  }
+
+  .how-it-works-0, .how-it-works-7 {
+    font-size: 16px;
+  }
+
+  .frame-7 {
+    grid-row-gap: 0px;
+  }
+
+  .what-is-design {
+    grid-row-gap: 0rem;
+    grid-template-columns: 1fr;
+    grid-auto-flow: row;
+    min-height: auto;
+    padding-left: 20px;
+  }
+
+  .error-69b80e48-a8fc-fb99-8436-122c8be83ea2 {
+    padding-left: 0;
+    font-size: 22px;
+    line-height: 150%;
+  }
+
+  .text-10 {
+    font-size: 12px;
+  }
+
+  .text-4-copy {
+    font-size: 36px;
+  }
+
+  .tom-soney-design-strategist {
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    flex-flow: column;
+    display: flex;
+  }
+
+  .rectangle-1 {
+    width: 10vh;
+    max-width: none;
+    height: 10vh;
+  }
+
+  .hero-section {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+
+  .text-6 {
+    width: 100%;
+    height: auto;
+    font-size: 16px;
+  }
+
+  .hero-line-2 {
+    grid-column-gap: 20px;
+    flex-flow: column;
+    width: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .text-4 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    line-height: 100%;
+  }
+
+  .transforming-your {
+    text-align: center;
+    font-size: 72px;
+  }
+
+  .quote {
+    justify-content: center;
+    align-items: center;
+    width: 53em;
+  }
+
+  .what-is-design-strategy-3 {
+    font-size: 36px;
+  }
+
+  .pills {
+    grid-row-gap: 12px;
+    width: auto;
+  }
+
+  .our-team-2 {
+    font-size: 36px;
+  }
+
+  .don-t-settle-for-basic-your-brand-deserves-more-3 {
+    font-size: 35px;
+  }
+
+  .frame-22 {
+    grid-row-gap: 30px;
+    width: 100%;
+  }
+
+  .nav-bar {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  .what-is-design-strategy-2 {
+    width: 100%;
+    margin-bottom: 1em;
+    margin-left: 0;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 29px;
+  }
+
+  .how-it-works {
+    font-size: 12px;
+  }
+
+  .road-map-copy {
+    justify-content: flex-start;
+    align-items: center;
+    padding: 75px 0;
+  }
+
+  .home_cta_image-wrapper {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .text-9 {
+    font-size: 24px;
+  }
+
+  .how-it-works-1 {
+    font-size: 12px;
+  }
+
+  .text-12 {
+    font-size: 14px;
+  }
+
+  .where-are-we-now {
+    grid-row-gap: 20px;
+    padding: 10px;
+    font-size: 10px;
+  }
+
+  .how-it-works-6 {
+    font-size: 16px;
+  }
+
+  .output_component {
+    grid-template-columns: 1fr 1fr;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+
+  .frame-10-copy {
+    min-width: 200px;
+    position: static;
+    left: 0;
+  }
+
+  .our-team {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .our-team-0 {
+    font-size: 36px;
+  }
+
+  .how-it-works-5 {
+    font-size: 16px;
+  }
+
+  .tom-soney-design-strategist-1 {
+    font-size: 12px;
+  }
+
+  .frame-19 {
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    grid-template-rows: auto;
+    grid-template-columns: 1fr;
+    grid-auto-columns: 1fr;
+    grid-auto-flow: column;
+    place-items: center;
+    width: 500px;
+    display: grid;
+  }
+
+  .div-block-2 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+
+  .div-block-2._1 {
+    padding: 4rem 100px 2rem;
+  }
+
+  .about-section-1 {
+    padding-left: 50px;
+    padding-right: 70px;
+  }
+
+  .don-t-settle-for-basic-your-brand-deserves-more-0 {
+    font-size: 35px;
+  }
+
+  .text-8 {
+    font-size: 12px;
+    line-height: 130%;
+  }
+
+  .nav-item {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+
+  ._12-team-members {
+    grid-column-gap: 8px;
+    grid-row-gap: 8px;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: center;
+    width: auto;
+    padding-left: 0;
+    display: flex;
+  }
+
+  .nav-bar-2 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .text-2 {
+    text-align: center;
+    width: auto;
+    font-size: 70px;
+  }
+
+  .tom-soney-design-strategist-0 {
+    font-size: 14px;
+  }
+
+  .logo-36 {
+    flex-flow: column;
+  }
+
+  .how-it-works-4 {
+    font-size: 16px;
+    line-height: 100%;
+  }
+
+  .button {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  ._12-team-members-0 {
+    font-size: 64px;
+  }
+
+  .design-section {
+    padding-top: 20px;
+    padding-bottom: 40px;
+  }
+
+  .text-7 {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 130%;
+  }
+
+  ._12-team-members-1 {
+    font-size: 16px;
+  }
+
+  .frame-23 {
+    grid-row-gap: 15px;
+  }
+
+  .text-14 {
+    font-size: 16px;
+  }
+
+  .text-15 {
+    font-size: 8px;
+  }
+
+  .text-16 {
+    font-size: 10px;
+  }
+
+  .where-are-we-now-3 {
+    padding: 10px;
+  }
+
+  .how-it-works-8, .how-it-works-9 {
+    font-size: 16px;
+  }
+
+  .frame-24 {
+    grid-row-gap: 0px;
+  }
+
+  .error-69b80e48-a8fc-fb99-8436-122c8be83ea2-2 {
+    padding-left: 0;
+    font-size: 22px;
+    line-height: 150%;
+  }
+
+  .text-17 {
+    font-size: 12px;
+  }
+
+  .text-4-copy-2 {
+    font-size: 36px;
+  }
+
+  .text-18 {
+    width: 100%;
+    height: auto;
+    font-size: 16px;
+  }
+
+  .text-19 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    line-height: 100%;
+  }
+
+  .what-is-design-strategy-4 {
+    font-size: 36px;
+  }
+
+  .pills-2 {
+    grid-row-gap: 12px;
+    width: auto;
+  }
+
+  .our-team-4 {
+    font-size: 36px;
+  }
+
+  .don-t-settle-for-basic-your-brand-deserves-more-5 {
+    font-size: 35px;
+  }
+
+  .frame-26 {
+    grid-row-gap: 30px;
+    width: 100%;
+  }
+
+  .what-is-design-strategy-5 {
+    width: 100%;
+    margin-bottom: 1em;
+    margin-left: 0;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 29px;
+  }
+
+  .how-it-works-10 {
+    font-size: 12px;
+  }
+
+  .text-20 {
+    font-size: 24px;
+  }
+
+  .how-it-works-12 {
+    font-size: 12px;
+  }
+
+  .text-21 {
+    font-size: 14px;
+  }
+
+  .how-it-works-13 {
+    font-size: 16px;
+  }
+
+  .our-team-5 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .our-team-6 {
+    font-size: 36px;
+  }
+
+  .how-it-works-15 {
+    font-size: 16px;
+  }
+
+  .tom-soney-design-strategist-2 {
+    font-size: 12px;
+  }
+
+  .frame-28 {
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    grid-template-rows: auto;
+    grid-template-columns: 1fr;
+    grid-auto-columns: 1fr;
+    grid-auto-flow: column;
+    place-items: center;
+    width: 500px;
+    display: grid;
+  }
+
+  .text-22 {
+    font-size: 12px;
+    line-height: 130%;
+  }
+
+  .nav-bar-3 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .text-24 {
+    text-align: center;
+    width: auto;
+    font-size: 70px;
+  }
+
+  .tom-soney-design-strategist-3 {
+    font-size: 14px;
+  }
+
+  .how-it-works-16 {
+    font-size: 16px;
+    line-height: 100%;
+  }
+
+  ._12-team-members-2 {
+    font-size: 64px;
+  }
+
+  .text-26 {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 130%;
+  }
+
+  ._12-team-members-3 {
+    font-size: 16px;
+  }
+
+  .frame-31 {
+    grid-row-gap: 15px;
+  }
+
+  .text-27 {
+    font-size: 16px;
+  }
+
+  .text-28 {
+    font-size: 8px;
+  }
+
+  .text-29 {
+    font-size: 10px;
+  }
+
+  .where-are-we-now-4 {
+    padding: 10px;
+  }
+
+  .how-it-works-17, .how-it-works-18 {
+    font-size: 16px;
+  }
+
+  .frame-32 {
+    grid-row-gap: 0px;
+  }
+
+  .error-69b80e48-a8fc-fb99-8436-122c8be83ea2-3 {
+    padding-left: 0;
+    font-size: 22px;
+    line-height: 150%;
+  }
+
+  .text-30 {
+    font-size: 12px;
+  }
+
+  .text-4-copy-3 {
+    font-size: 36px;
+  }
+
+  .text-31 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    line-height: 100%;
+  }
+
+  .what-is-design-strategy-7 {
+    font-size: 36px;
+  }
+
+  .pills-3 {
+    grid-row-gap: 12px;
+    width: auto;
+  }
+
+  .our-team-7 {
+    font-size: 36px;
+  }
+
+  .don-t-settle-for-basic-your-brand-deserves-more-7 {
+    font-size: 35px;
+  }
+
+  .frame-33 {
+    grid-row-gap: 30px;
+    width: 100%;
+  }
+
+  .what-is-design-strategy-8 {
+    width: 100%;
+    margin-bottom: 1em;
+    margin-left: 0;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 29px;
+  }
+
+  .how-it-works-19 {
+    font-size: 12px;
+  }
+
+  .text-32 {
+    font-size: 24px;
+  }
+
+  .how-it-works-21 {
+    font-size: 12px;
+  }
+
+  .text-33 {
+    font-size: 14px;
+  }
+
+  .our-team-8 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .our-team-9 {
+    font-size: 36px;
+  }
+
+  .how-it-works-23 {
+    font-size: 16px;
+  }
+
+  .tom-soney-design-strategist-4 {
+    font-size: 12px;
+  }
+
+  .frame-35 {
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    grid-template-rows: auto;
+    grid-template-columns: 1fr;
+    grid-auto-columns: 1fr;
+    grid-auto-flow: column;
+    place-items: center;
+    width: 500px;
+    display: grid;
+  }
+
+  .text-34 {
+    font-size: 12px;
+    line-height: 130%;
+  }
+
+  ._12-team-members-4 {
+    grid-column-gap: 8px;
+    grid-row-gap: 8px;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: center;
+    width: auto;
+    padding-left: 0;
+    display: flex;
+  }
+
+  .nav-bar-4 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .text-36 {
+    text-align: center;
+    width: auto;
+    font-size: 70px;
+  }
+
+  .tom-soney-design-strategist-5 {
+    font-size: 14px;
+  }
+
+  .how-it-works-24 {
+    font-size: 16px;
+    line-height: 100%;
+  }
+
+  ._12-team-members-5 {
+    font-size: 64px;
+  }
+
+  .text-38 {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 130%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .text-13 {
+    font-size: 6px;
+  }
+
+  .nav-list-copy {
+    grid-column-gap: 12px;
+  }
+
+  .error-69b80e48-a8fc-fb99-8436-122c8be83eab {
+    font-size: 24px;
+  }
+
+  .now {
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .what-is-design {
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    padding-left: 0;
+  }
+
+  .text-copy33 {
+    font-size: 24px;
+  }
+
+  .quick-view {
+    width: 100vw;
+    padding: 140px 0;
+  }
+
+  .content-sticky {
+    margin-bottom: 3em;
+    position: static;
+  }
+
+  .quote {
+    width: auto;
+  }
+
+  .don-t-settle-for-basic-your-brand-deserves-more-3 {
+    font-size: 30px;
+  }
+
+  .how-it-works-2 {
+    font-size: 12px;
+  }
+
+  .text-9 {
+    font-size: 20px;
+    line-height: 120%;
+  }
+
+  .where-are-we-now {
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+
+  .output_component {
+    grid-row-gap: 3.75rem;
+    grid-template-columns: 1fr;
+    padding: 3.5rem 1.25rem;
+  }
+
+  .div-block-2 {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+
+  .div-block-2._1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .don-t-settle-for-basic-your-brand-deserves-more-0 {
+    font-size: 30px;
+  }
+
+  .text-8 {
+    text-align: center;
+  }
+
+  .padding-global-2 {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+
+  .text {
+    font-size: 16px;
+  }
+
+  .text-15 {
+    font-size: 6px;
+  }
+
+  .text-copy33-2 {
+    font-size: 24px;
+  }
+
+  .don-t-settle-for-basic-your-brand-deserves-more-5 {
+    font-size: 30px;
+  }
+
+  .how-it-works-11 {
+    font-size: 12px;
+  }
+
+  .text-20 {
+    font-size: 20px;
+    line-height: 120%;
+  }
+
+  .text-22 {
+    text-align: center;
+  }
+
+  .text-25 {
+    font-size: 16px;
+  }
+
+  .text-28 {
+    font-size: 6px;
+  }
+
+  .text-copy33-3 {
+    font-size: 24px;
+  }
+
+  .don-t-settle-for-basic-your-brand-deserves-more-7 {
+    font-size: 30px;
+  }
+
+  .how-it-works-20 {
+    font-size: 12px;
+  }
+
+  .text-32 {
+    font-size: 20px;
+    line-height: 120%;
+  }
+
+  .text-34 {
+    text-align: center;
+  }
+
+  .text-37 {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .frame-20 {
+    width: auto;
+    height: 50%;
+  }
+
+  .text-5 {
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .text-13 {
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .text-3 {
+    width: 0;
+    height: 5px;
+  }
+
+  .team {
+    grid-column-gap: 16px;
+    grid-row-gap: 40px;
+    grid-template-rows: auto auto;
+    grid-template-columns: 1fr;
+    grid-auto-columns: 1fr;
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: grid;
+  }
+
+  .book {
+    padding: 20px;
+    overflow: visible;
+  }
+
+  .where-are-we-now-2 {
+    border-radius: 5px;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    padding: 10px 20px;
+  }
+
+  .nav-list-copy {
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+  }
+
+  .error-69b80e48-a8fc-fb99-8436-122c8be83eab {
+    font-size: 48px;
+  }
+
+  .how-it-works-0 {
+    font-size: 15px;
+  }
+
+  .parent-block {
+    padding-left: 0%;
+    padding-right: 0%;
+  }
+
+  .how-it-works-7 {
+    font-size: 24px;
+  }
+
+  .now {
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    flex-flow: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  .frame-7 {
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+  }
+
+  .what-is-design {
+    grid-row-gap: 2rem;
+    grid-template-columns: 1fr;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  .error-69b80e48-a8fc-fb99-8436-122c8be83ea2 {
+    text-align: left;
+    width: auto;
+    padding-left: 0;
+    font-size: 36px;
+  }
+
+  .text-10 {
+    font-size: 16px;
+  }
+
+  .text-copy33 {
+    font-size: 25px;
+  }
+
+  .our-team-1 {
+    font-size: 16px;
+  }
+
+  .tom-soney-design-strategist {
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .rectangle-1 {
+    width: 15vh;
+    height: 15vh;
+  }
+
+  .quick-view {
+    padding-left: 70px;
+    padding-right: 70px;
+    overflow: visible;
+  }
+
+  .hero-section {
+    padding: 0 20px;
+    overflow: visible;
+  }
+
+  .text-6 {
+    width: auto;
+    height: auto;
+    font-size: 24px;
+    line-height: 150%;
+  }
+
+  .content-sticky {
+    grid-template-rows: auto auto;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-columns: 1fr;
+  }
+
+  .frame-17 {
+    grid-row-gap: 30px;
+  }
+
+  .hero-line-2 {
+    grid-column-gap: 30px;
+    grid-row-gap: 10px;
+    width: 310px;
+  }
+
+  .text-4 {
+    margin-bottom: 0;
+    font-size: 24px;
+  }
+
+  .transforming-your {
+    font-size: 40px;
+  }
+
+  .navbar-link-1 {
+    opacity: 0;
+    width: auto;
+    padding: 10px 10px 10px 5px;
+  }
+
+  .quote {
+    width: 20em;
+  }
+
+  .what-is-design-strategy-3 {
+    font-size: 36px;
+    line-height: 120%;
+  }
+
+  .pills {
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
+    flex-flow: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: auto;
+    height: auto;
+  }
+
+  .output-slider_slide-2 {
+    padding-left: 0;
+  }
+
+  .our-team-2 {
+    font-size: 30px;
+  }
+
+  .don-t-settle-for-basic-your-brand-deserves-more-3 {
+    font-size: 56px;
+    line-height: 120%;
+  }
+
+  .frame-22 {
+    height: 100vh;
+  }
+
+  .nav-bar {
+    padding-left: 40px;
+    overflow: hidden;
+  }
+
+  .what-is-design-strategy-2 {
+    width: auto;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    font-size: 20px;
+    line-height: 20%;
+  }
+
+  .how-it-works {
+    text-align: left;
+    margin-top: 0;
+    font-size: 14px;
+  }
+
+  .road-map-copy {
+    grid-column-gap: 16px;
+    grid-row-gap: 50px;
+    flex: 0 auto;
+    grid-template-rows: auto auto;
+    grid-template-columns: 1fr;
+    grid-auto-columns: 1fr;
+    justify-content: center;
+    align-items: flex-start;
+    width: auto;
+    height: auto;
+    padding: 40px 40px 60px;
+    display: flex;
+    overflow: visible;
+  }
+
+  .home_cta_image-wrapper {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .how-it-works-2 {
+    font-size: 10px;
+  }
+
+  .text-9 {
+    font-size: 36px;
+  }
+
+  .how-it-works-1 {
+    font-size: 12px;
+  }
+
+  .text-12 {
+    font-size: 14px;
+  }
+
+  .what-is-design-section {
+    width: 100%;
+  }
+
+  .where-are-we-now {
+    border-radius: 5px;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    padding: 10px 20px;
+  }
+
+  .hero {
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+  }
+
+  .how-it-works-6 {
+    font-size: 24px;
+  }
+
+  .how-it-works-3 {
+    font-size: 15px;
+  }
+
+  .frame-10-copy {
+    width: auto;
+    min-width: auto;
+  }
+
+  .our-team {
+    padding-left: 20px;
+    padding-right: 20px;
+    overflow: visible;
+  }
+
+  .our-team-0 {
+    font-size: 30px;
+  }
+
+  .how-it-works-5 {
+    font-size: 18px;
+  }
+
+  .hero-headers {
+    width: auto;
+    padding: 10px 10px 10px 5px;
+  }
+
+  .tom-soney-design-strategist-1 {
+    font-size: 16px;
+  }
+
+  .frame-19 {
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
+    grid-auto-flow: row;
+    width: auto;
+  }
+
+  .div-block-2._1 {
+    padding: 0;
+  }
+
+  .about-section-1 {
+    width: auto;
+    padding-left: 0;
+    padding-right: 0;
+    overflow: visible;
+  }
+
+  .don-t-settle-for-basic-your-brand-deserves-more-0 {
+    font-size: 56px;
+  }
+
+  .text-8 {
+    font-size: 16px;
+  }
+
+  .nav-item {
+    margin-top: 3px;
+    margin-left: 7em;
+    padding: 10px;
+    position: absolute;
+  }
+
+  ._12-team-members {
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+  }
+
+  .nav-bar-2 {
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    grid-template-rows: auto auto;
+    grid-template-columns: 1fr;
+    grid-auto-columns: 1fr;
+    display: grid;
+    overflow: hidden;
+  }
+
+  .post-summary {
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+  .text-11 {
+    font-size: 20px;
+  }
+
+  .text-2 {
+    font-size: 72px;
+  }
+
+  .tom-soney-design-strategist-0 {
+    font-size: 20px;
+  }
+
+  .logo-36 {
+    grid-column-gap: 0px;
+    flex-flow: column;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 5px 0;
+    font-size: 12px;
+  }
+
+  .text {
+    font-size: 36px;
+  }
+
+  .button {
+    width: auto;
+    padding: 10px;
+  }
+
+  .logo-36-copy {
+    width: auto;
+    padding: 10px 10px 10px 5px;
+  }
+
+  .nav-list {
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  .home-page {
+    padding-top: 0;
+    padding-bottom: 0;
+    overflow: visible;
+  }
+
+  ._12-team-members-0 {
+    font-size: 50px;
+  }
+
+  .design-section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    overflow: visible;
+  }
+
+  .text-7 {
+    text-align: center;
+    font-size: 16px;
+  }
+
+  ._12-team-members-1 {
+    font-size: 16px;
+  }
+
+  .frame-23 {
+    width: auto;
+    height: 50%;
+  }
+
+  .text-14 {
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .text-15 {
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .text-16 {
+    width: 0;
+    height: 5px;
+  }
+
+  .where-are-we-now-3 {
+    border-radius: 5px;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    padding: 10px 20px;
+  }
+
+  .how-it-works-8 {
+    font-size: 15px;
+  }
+
+  .how-it-works-9 {
+    font-size: 24px;
+  }
+
+  .frame-24 {
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+  }
+
+  .error-69b80e48-a8fc-fb99-8436-122c8be83ea2-2 {
+    text-align: left;
+    width: auto;
+    padding-left: 0;
+    font-size: 36px;
+  }
+
+  .text-17 {
+    font-size: 16px;
+  }
+
+  .text-copy33-2 {
+    font-size: 25px;
+  }
+
+  .our-team-3 {
+    font-size: 16px;
+  }
+
+  .text-18 {
+    width: auto;
+    height: auto;
+    font-size: 24px;
+    line-height: 150%;
+  }
+
+  .frame-25 {
+    grid-row-gap: 30px;
+  }
+
+  .text-19 {
+    margin-bottom: 0;
+    font-size: 24px;
+  }
+
+  .what-is-design-strategy-4 {
+    font-size: 36px;
+    line-height: 120%;
+  }
+
+  .pills-2 {
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
+    flex-flow: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: auto;
+    height: auto;
+  }
+
+  .our-team-4 {
+    font-size: 30px;
+  }
+
+  .don-t-settle-for-basic-your-brand-deserves-more-5 {
+    font-size: 56px;
+    line-height: 120%;
+  }
+
+  .frame-26 {
+    height: 100vh;
+  }
+
+  .what-is-design-strategy-5 {
+    width: auto;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    font-size: 20px;
+    line-height: 20%;
+  }
+
+  .how-it-works-10 {
+    text-align: left;
+    margin-top: 0;
+    font-size: 14px;
+  }
+
+  .how-it-works-11 {
+    font-size: 10px;
+  }
+
+  .text-20 {
+    font-size: 36px;
+  }
+
+  .how-it-works-12 {
+    font-size: 12px;
+  }
+
+  .text-21 {
+    font-size: 14px;
+  }
+
+  .how-it-works-13 {
+    font-size: 24px;
+  }
+
+  .how-it-works-14 {
+    font-size: 15px;
+  }
+
+  .our-team-5 {
+    padding-left: 20px;
+    padding-right: 20px;
+    overflow: visible;
+  }
+
+  .our-team-6 {
+    font-size: 30px;
+  }
+
+  .how-it-works-15 {
+    font-size: 18px;
+  }
+
+  .tom-soney-design-strategist-2 {
+    font-size: 16px;
+  }
+
+  .frame-28 {
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
+    grid-auto-flow: row;
+    width: auto;
+  }
+
+  .text-22 {
+    font-size: 16px;
+  }
+
+  .nav-bar-3 {
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    grid-template-rows: auto auto;
+    grid-template-columns: 1fr;
+    grid-auto-columns: 1fr;
+    display: grid;
+    overflow: hidden;
+  }
+
+  .text-23 {
+    font-size: 20px;
+  }
+
+  .text-24 {
+    font-size: 72px;
+  }
+
+  .tom-soney-design-strategist-3 {
+    font-size: 20px;
+  }
+
+  .text-25 {
+    font-size: 36px;
+  }
+
+  ._12-team-members-2 {
+    font-size: 50px;
+  }
+
+  .text-26 {
+    text-align: center;
+    font-size: 16px;
+  }
+
+  ._12-team-members-3 {
+    font-size: 16px;
+  }
+
+  .frame-31 {
+    width: auto;
+    height: 50%;
+  }
+
+  .text-27 {
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .text-28 {
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .text-29 {
+    width: 0;
+    height: 5px;
+  }
+
+  .where-are-we-now-4 {
+    border-radius: 5px;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    padding: 10px 20px;
+  }
+
+  .how-it-works-17 {
+    font-size: 15px;
+  }
+
+  .how-it-works-18 {
+    font-size: 24px;
+  }
+
+  .frame-32 {
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+  }
+
+  .error-69b80e48-a8fc-fb99-8436-122c8be83ea2-3 {
+    text-align: left;
+    width: auto;
+    padding-left: 0;
+    font-size: 36px;
+  }
+
+  .text-30 {
+    font-size: 16px;
+  }
+
+  .text-copy33-3 {
+    font-size: 25px;
+  }
+
+  .text-31 {
+    margin-bottom: 0;
+    font-size: 24px;
+  }
+
+  .what-is-design-strategy-7 {
+    font-size: 36px;
+    line-height: 120%;
+  }
+
+  .pills-3 {
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
+    flex-flow: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: auto;
+    height: auto;
+  }
+
+  .our-team-7 {
+    font-size: 30px;
+  }
+
+  .don-t-settle-for-basic-your-brand-deserves-more-7 {
+    font-size: 56px;
+    line-height: 120%;
+  }
+
+  .frame-33 {
+    height: 100vh;
+  }
+
+  .what-is-design-strategy-8 {
+    width: auto;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    font-size: 20px;
+    line-height: 20%;
+  }
+
+  .how-it-works-19 {
+    text-align: left;
+    margin-top: 0;
+    font-size: 14px;
+  }
+
+  .how-it-works-20 {
+    font-size: 10px;
+  }
+
+  .text-32 {
+    font-size: 36px;
+  }
+
+  .how-it-works-21 {
+    font-size: 12px;
+  }
+
+  .text-33 {
+    font-size: 14px;
+  }
+
+  .how-it-works-22 {
+    font-size: 15px;
+  }
+
+  .our-team-8 {
+    padding-left: 20px;
+    padding-right: 20px;
+    overflow: visible;
+  }
+
+  .our-team-9 {
+    font-size: 30px;
+  }
+
+  .how-it-works-23 {
+    font-size: 18px;
+  }
+
+  .tom-soney-design-strategist-4 {
+    font-size: 16px;
+  }
+
+  .frame-35 {
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
+    grid-auto-flow: row;
+    width: auto;
+  }
+
+  .text-34 {
+    font-size: 16px;
+  }
+
+  ._12-team-members-4 {
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+  }
+
+  .nav-bar-4 {
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    grid-template-rows: auto auto;
+    grid-template-columns: 1fr;
+    grid-auto-columns: 1fr;
+    display: grid;
+    overflow: hidden;
+  }
+
+  .text-35 {
+    font-size: 20px;
+  }
+
+  .text-36 {
+    font-size: 72px;
+  }
+
+  .tom-soney-design-strategist-5 {
+    font-size: 20px;
+  }
+
+  .text-37 {
+    font-size: 36px;
+  }
+
+  ._12-team-members-5 {
+    font-size: 50px;
+  }
+
+  .text-38 {
+    text-align: center;
+    font-size: 16px;
+  }
+
+  #w-node-_175e996c-6738-a343-29f2-e9f75446be34-69d27807, #w-node-_175e996c-6738-a343-29f2-e9f75446bfc9-69d27807, #w-node-_175e996c-6738-a343-29f2-e9f75446bfd5-69d27807 {
+    grid-area: span 1 / span 1 / span 1 / span 1;
+  }
+}
+
+
